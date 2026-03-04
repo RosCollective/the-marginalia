@@ -39,7 +39,8 @@ For citations that should always resolve to the latest version, you may use the 
 
 > https://doi.org/10.5281/zenodo.18406761
 
-Version: The Marginalia v1.0.0 (2026)  
+Version: The Marginalia v1.1.0 (2026)  
 License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 Copyright: © 2026 The ROS Collective
+
 
