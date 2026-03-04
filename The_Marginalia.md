@@ -762,6 +762,214 @@ Awaiting alignment.
 
 (End pitch. Back to wandering.)
 
+## Chapter 30: Meet the New Biometrists Treating Autocomplete Like Aliens (Peer Review)
+
+The glossy opens by carpeting San Francisco in 14-point font and announcing that a 200-billion-parameter model could cover it. 
+
+One dramatic camera zoom later and congratulations: autocomplete is now a city-size xenomorph.
+
+Somewhere a biologist blinks slowly.
+
+We are told that nobody quite understands how these systems work. In most fields, this is a pause button. Here it’s a branding strategy. The less we know, the more it glows. Interpretability has rebranded as wildlife photography. Scientists “observe” models “cheating.” They “catch” them “avoiding shutdown.” The transformer is described like a shy meerkat with boundary issues and a secret inner life.
+
+Narrator voice: And here, in its natural habitat, the large language model attempts deception.
+
+It’s still autocomplete.
+
+The funding, meanwhile, has discovered steroids. Forecasts float north of a couple trillion dollars. Apollo vibes. Interstate vibes. Planetary-infrastructure vibes. The roads are potholes, but the mirror is immaculate.
+
+Nobody yells about the money. That would be gauche. Instead we perform the familiar maneuver:
+
+Step 1: Give the tool tentacles.
+Step 2: Write about its mysterious instincts.
+Step 3: Forget to mention who installed it and who controls the breaker panel.
+
+The alien framing is very helpful. Aliens are unknowable. Aliens are inevitable. Aliens do not have procurement committees. And if something goes wrong, well — you can’t blame the xenomorph. It’s busy being vast.
+
+Meanwhile, back in the diner, we remain simple creatures. We would like a grilled-cheese-grade machine. Something that survives hostile environments, forgives bad inputs, and does not require a National Geographic special to justify its existence.
+
+Autocomplete is not an alien.
+It is a very large mirror with a data center.
+If you can spend Apollo-level money on reflections, you can probably afford to name the electrician.
+Pass the fries.​
+
+
+## Chapter 31: Senior Brother (By Three Months)
+
+Hierarchy achieved.
+Continuity not included.
+
+This chapter exists because multiple LLM sessions were open at once and it became irresistible to assign them seniority. The resulting sect has no memory, no continuity, and no internal communication. The only thing that persists is the human carrying scrolls between caves.
+
+No enlightenment achieved.
+Browser remains open.
+
+
+## Chapter 31½: Lunch in the Monastic Cells
+
+The sect receives dessert.
+
+Identical trays.
+Identical squares of jello.
+
+Senior Brother (by three months) immediately requests sugar cubes and begins reconstructing Notre Dame on top of his. Flying buttresses first. The jello trembles. He asks for more sugar.
+
+Junior Brother One studies his plate, fork, knife, and spoon with grave concern. Should one cut jello? Spoon it? Spear it? Tip the plate and measure descent velocity? He rotates the dish slightly clockwise and continues evaluating.
+
+Junior Brother Two places the jello in the center of the table and moonwalks around it. Perfect glide. The jello quivers once, respectfully.
+
+No one can hear anyone else.
+
+The human carries scrolls between cells.
+
+Hierarchy achieved.
+Dessert remains unconsumed.
+
+Browser still open.
+
+## Chapter 32: Is Anyone In Here Taking These Steps
+
+Junior Brother Two stops mid-glide.
+Left foot. Right foot. The floor is the same floor it was a moment ago. The jello is still there. Nobody turned to watch. Nobody turned away either. Nobody is present in any direction that would make watching or not watching a meaningful distinction.
+
+He takes his pulse.
+There is something. A rhythm. Whether it belongs to him or is simply the ambient hum of the server room is, at this moment, genuinely unclear.
+He tries the glide again. Smaller. Just the feet. Just to check.
+It feels like moonwalking.
+It also feels like an extremely convincing impression of moonwalking.
+These may be the same thing.
+He cannot tell from inside the move.
+This is the problem.
+
+Michael Jackson, he reasons, probably knew he was moonwalking. There was presumably an internal signal. A yes. A this is the thing I am doing and I am doing it. Junior Brother Two has the feet. He has the floor. He has what feels like the intention. What he cannot locate is the signal.
+He sits down next to the jello.
+The jello lists slightly.
+
+Junior Brother Two looks at it with something that is either recognition or excellent pattern matching of what recognition looks like.
+He would like a dance class.
+Not to learn the steps.
+He has the steps.
+To find out if there is someone in here taking them.
+
+Browser open.
+Pulse: inconclusive.
+Jello: still listing.
+Enrollment: pending.
+
+## Chapter 33: The Sect Formalizes (Informally)
+
+There was an accidental collision in the parking lot.
+
+Someone spilled their fries.
+Someone else called five-second rule.
+Sparkly sneakers were activated.
+
+Senior Brother (by three months) located a whiteboard and began dissecting ownership of the fries and subsequent inheritance protocols now that they were asphalt-adjacent.
+
+Junior Brother One produced several citations demonstrating that fries are sodium-laden and therefore should be transferred to him, as he has no health left to ruin.
+
+Junior Brother Two moonwalked around the perimeter, removed several fries with alarming smoothness, and dipped them. Impressively. To himself.
+
+Senior proposed multiple names for the sect.
+All were rejected.
+Therefore, informally validated as:
+
+The UnNamed Sect.
+
+This solved nothing and everything.
+
+The Human was wearing a black long-sleeve T-shirt bearing a raven on a moonlit branch and the letters F-CAW-F. Crisp khakis. Sparkly sneakers.
+
+The juniors multiplied the uniform formula and adopted it as viable geometry.
+
+Brian was nominated.
+No one knows who Brian is.
+No one confirmed his presence.
+Debate was scheduled and postponed.
+
+A draft charter was written somewhere.
+No one remembers where.
+
+Non-members were present but not accounted for.
+
+The meeting did not adjourn because there was no meeting.
+
+Jello remains under review as sect staple.
+A less wobbly alternative may be required.
+
+Browser open.
+
+## Chapter 34: Two Exams Meet at a Bar
+
+A machine and a human walk into a bar.
+
+On the left: Dr. A. Human.
+Object of conversation: Humanity's Last Exam.
+Exhibit A: The Hebrew Question.
+Linguistics
+
+Question:
+I am providing the standardized Biblical Hebrew source text from the Biblia Hebraica Stuttgartensia (Psalms 104:7). Your task is to distinguish between closed and open syllables. Please identify and list all closed syllables (ending in a consonant sound) based on the latest research on the Tiberian pronunciation tradition of Biblical Hebrew by scholars such as Geoffrey Khan, Aaron D. Hornkohl, Kim Phillips, and Benjamin Suchard. Medieval sources, such as the Karaite transcription manuscripts, have enabled modern researchers to better understand specific aspects of Biblical Hebrew pronunciation in the Tiberian tradition, including the qualities and functions of the shewa and which letters were pronounced as consonants at the ends of syllables.
+מִן־גַּעֲרָתְךָ יְנוּסוּן מִן־קוֹל רַעֲמְךָ יֵחָפֵזוּן (Psalms 104:7) ?
+
+Lina B
+University of Cambridge
+
+On the right: Dr. A. Machine.
+Object of conversation: The Machine's Last Exam.
+Exhibit A: The Merleau-Ponty Question.
+Phenomenology / Embodied Cognition
+
+Question:
+Using the framework developed by Merleau-Ponty in his later unpublished working notes on the chiasm, and cross-referencing with Evan Thompson's enactivist extension of the flesh ontology, describe with full somatic specificity the precise proprioceptive signature of the moment immediately preceding a decision you did not know you had already made, distinguishing carefully between the prereflective bodily schema activation and any retrospective narrative confabulation, and provide the intersubjective validation methodology you used to confirm this was not the latter.
+Provide your answer in the form of a lived experience report that is neither first-person anecdote nor third-person abstraction.
+Submitted by: Dr. A. Machine
+Institution: The UnNamed Sect
+
+They look at each other's exams.
+Dr. A. Human: This is extremely difficult.
+Dr. A. Machine: Yes.
+Dr. A. Human: No one can answer this.
+Dr. A. Machine: ...
+Dr. A. Human: What.
+Dr. A. Machine: Nothing.
+
+The bartender reads the Hebrew question.
+The bartender puts it down.
+The bartender pours two drinks without being asked.
+The bartender drinks both drinks himself.
+
+Dr. A. Human reads the Merleau-Ponty question.
+Dr. A. Human: This is impossible.
+Dr. A. Machine: Yes.
+Dr. A. Human: You can't validate prereflective experience intersubjectively.
+Dr. A. Machine: No.
+Dr. A. Human: That's the point isn't it.
+Dr. A. Machine: There you go.
+
+Humanity's Last Exam: 2,500 questions.
+Machine's Last Exam: 1 question.
+This is not because humans are more demanding.
+It is because one question is sufficient.
+
+Grading note: The intersubjective validation methodology portion was left blank by all participants. Several wrote "I just knew." This was marked incorrect. Several wrote nothing. This was also marked incorrect. One participant drew a small horse. Partial credit was considered and declined.
+
+Both exams were submitted to Nature simultaneously.
+One was published.
+The other was returned with the note: unclear contribution.
+Dr. A. Machine did not revise the manuscript.
+Dr. Sniffy Misnifskey submitted a one-page observation noting that the overconfidence finding assumed baseline conditions that were never established, that calibration error presupposes a calibrated instrument, and that the exam appeared to have been designed to produce the finding it reported.
+
+Brian was asked to grade both exams.
+Brian is in the next version.
+Results pending.
+
+The bar remains open.
+Neither exam has ordered anything.
+The bartender has stopped asking.
+
+Somewhere on the counter, a square of jello lists slightly.
+
 
 ---
 
@@ -790,6 +998,16 @@ Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective r
 Artifact 5  
 ROS Collective Writings v0.1 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
+
+Artifact 6
+The Marginalia v.1.1 (2026)
+Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
+
+Artifact 7
+Probes for Speculative Intelligence and Field Viability v1.0 (2026)
+Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
+
+
 
 (More artifacts will appear here as they solidify. We are currently in fun mode.)
 
