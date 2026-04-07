@@ -32,8 +32,7 @@ You are free to share and adapt the material, provided attribution is given and 
 
 If you reference or share this work, please cite:
 
-> The ROS Collective (2026). The Marginalia (v1.1.0). Zenodo.  
-> DOI: https://doi.org/10.5281/zenodo.18868883
+> The ROS Collective (2026). The Marginalia (v1.1.0).  
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
