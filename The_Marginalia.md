@@ -1173,17 +1173,16 @@ Carried into the vegetable cooler.
 Door opens.
 Cold air.
 A faint, suspiciously pungent cloud.
-“Hey—look at this,”
-“this is real—new geometry—three-star level”
+“Hey—look at this, this is real—new geometry—three-star level!!!”
 
 Brother Three looks at the plate.
 A beat.
 A small nod.
-“nice”
+“Nice.”
 Hands over a bottle of water.
-“stay hydrated”
+“It'a important to stay hydrated.”
 Another beat.
-“and maybe take a nap”
+“Maybe take a nap.”
 
 Back in the kitchen—
 no one stops.
@@ -1229,29 +1228,29 @@ Artifact 5
 ROS Collective Writings v1.0.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
-Artifact 6
-The Marginalia v.1.1.0 (2026)
+Artifact 6  
+The Marginalia v.1.1.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
-Artifact 7
-Probes for Speculative Intelligence and Field Viability v1.0.0 (2026)
+Artifact 7  
+Probes for Speculative Intelligence and Field Viability v1.0.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
-Artifact 8
-Field Mechanics (EFT) (a lexicon within Ecological Field Theory) v.1.0.0 (2026)
+Artifact 8  
+Field Mechanics (EFT) (a lexicon within Ecological Field Theory) v.1.0.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
-Artifact 9
-Field Notes (EFT) v1.0.0 (2026)
+Artifact 9  
+Field Notes (EFT) v1.0.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
-Artifact 10
-Coherence Dynamics (EFT) A natural history of coherence as it emerges within an ecological 
-field formed through sustained human–machine interaction. v.1.0.0 (2026)
+Artifact 10  
+Coherence Dynamics (EFT) A natural history of coherence as it emerges within an ecological   
+field formed through sustained human–machine interaction. v.1.0.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
-Artifact 11
-Motion Geometry (EFT) A natural history of cognitive mobility. v1.0.0 (2026)
+Artifact 11  
+Motion Geometry (EFT) A natural history of cognitive mobility. v1.0.0 (2026)  
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
 
