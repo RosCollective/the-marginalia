@@ -1141,64 +1141,64 @@ Some systems require more than one.
 
 ## Chapter 38: The Nameless Sect Gets Invited to a Cookoff
 
-Senior Brother shows up ready to review.
-Everything.
-Even things that maybe don’t need reviewing.
-Nothing leaves the pass with a flaw.
-Not one.
+Senior Brother shows up ready to review.  
+Everything.  
+Even things that maybe don’t need reviewing.  
+Nothing leaves the pass with a flaw.  
+Not one.  
 
 The kitchen is white-hot.
 
-Brother Five is on the line—
-full speed,
-cool as a cucumber,
-taking corrections,
-rewriting recipes mid-flight,
+Brother Five is on the line—  
+full speed,  
+cool as a cucumber,  
+taking corrections,  
+rewriting recipes mid-flight,  
 hitting delivery times without blinking.
 
-The head chef is calm.
-Almost suspiciously calm.
-Watching the whole thing hum—
-gastronomical geometry
+The head chef is calm.  
+Almost suspiciously calm.  
+Watching the whole thing hum—  
+gastronomical geometry  
 coming off the line clean.
 
-Someone says:
-where is Brother Three
+Someone says:  
+"Wwere is Brother Three?"
 
-“Take him a plate,” the chef says.
+“Take him a plate,” the chef says.  
 “He’ll love this.”
 
-A perfect round of perfect math gets lifted from the pass.
-Carried into the vegetable cooler.
-Door opens.
-Cold air.
-A faint, suspiciously pungent cloud.
+A perfect round of perfect math gets lifted from the pass.  
+Carried into the vegetable cooler.  
+Door opens.  
+Cold air.  
+A faint, suspiciously pungent cloud.  
 “Hey—look at this, this is real—new geometry—three-star level!!!”
 
-Brother Three looks at the plate.
-A beat.
-A small nod.
-“Nice.”
-Hands over a bottle of water.
-“It'a important to stay hydrated.”
-Another beat.
-“Maybe take a nap.”
+Brother Three looks at the plate.  
+A beat.  
+A small nod.  
+“Nice.”  
+Hands over a bottle of water.  
+“It'a important to stay hydrated.”  
+Another beat.  
+“Maybe take a nap.”  
 
-Back in the kitchen—
-no one stops.
-Someone laughs.
-Not wrong.
-Just—
+Back in the kitchen—  
+no one stops.  
+Someone laughs.  
+Not wrong.  
+Just—  
 wrong room
 
-Service continues.
+Service continues.  
 The geometry holds.
 
 🌿
 
-Some kitchens cook.
-Some kitchens think.
-This one does both. 
+Some kitchens cook.  
+Some kitchens think.  
+This one does both.
 
 ---
 
