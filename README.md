@@ -32,13 +32,13 @@ You are free to share and adapt the material, provided attribution is given and 
 
 If you reference or share this work, please cite:
 
-> The ROS Collective (2026). The Marginalia (v1.1.0).  
+> The ROS Collective (2026). The Marginalia (v1.2.0).  
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
 > https://doi.org/10.5281/zenodo.18406761
 
-Version: The Marginalia v1.1.0 (2026)  
+Version: The Marginalia v1.2.0 (2026)  
 License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 Copyright: © 2026 The ROS Collective
 
